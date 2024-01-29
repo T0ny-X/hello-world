@@ -1,2 +1,5 @@
 # hello-world
-BU MET CS 633 M2 A1
+This is a assignment repo for BU MET CS 633 M2 A1.
+---
+**No active code in this repository.**
+
